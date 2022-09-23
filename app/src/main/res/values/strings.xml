@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="title">BMI calculator</string>
+    <string name="sub_title">Body mass calculator</string>
+    <string name="weight">what is your weight?</string>
+    <string name="height">How tall are you?</string>
+    <string name="result">Result</string>
+</resources>
